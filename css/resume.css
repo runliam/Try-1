@@ -1,0 +1,27 @@
+heading{
+    font-family: 'Times New Roman', Times, serif;
+    color: navy; 
+    text-align: center;
+    font-weight: bolder;
+}
+
+subheading{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    font-weight: bold;
+}
+
+subberheading{
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+}
+
+normal{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+body{
+    background-color: blanchedalmond;
+}
